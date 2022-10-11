@@ -2,7 +2,7 @@
 
 Data Journalism 2022-23 | JOMEC
 
-This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism in the Autumn 2021 semester ([MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc)). The course ran for 12 weeks with a four-hour class and a three-hour workshop every week. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
+This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism in the Autumn 2021 semester ([MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc)). The course runs for 12 weeks with a four-hour class and a three-hour workshop every week. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
 
 Description
 
@@ -10,7 +10,7 @@ Data journalism at its broadest sees any information in a digitised form as a po
 
 Course outline
 
-    Week 1 —
+    Week 1 — Spreadsheets and stories
     Week 2 —
     Week 3 —
     Week 4 —
