@@ -1,10 +1,13 @@
 **APIs**
 
+- [UK gov list](https://www.api.gov.uk/#uk-public-sector-apis)
+
 — APIs without keys
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [Chargepoint Registry UK](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [Common crawl (web scrapers)](http://index.commoncrawl.org/)
+- [Companies House](https://developer.company-information.service.gov.uk/get-started/)
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
 - [DEFRA APIs](https://environment.data.gov.uk/apiportal)
 - [Election candidates data UK](https://candidates.democracyclub.org.uk/api/docs/next/)
@@ -40,18 +43,18 @@
 - [Met office UK](https://www.metoffice.gov.uk/services/data/datapoint)
 - [NY Times](https://developer.nytimes.com/apis)
 - [Open Corporates (needs permission for free)](https://api.opencorporates.com/)
+- [Spotify](https://developer.spotify.com/documentation/web-api/)
 - [They work for you](https://www.theyworkforyou.com/api/)
 - [Twitter (extra authentication)](https://developer.twitter.com/en/docs/twitter-api)
 
-— Mapping APIs
+<!-- — Mapping APIs
 - [Google mapping bundle](https://developers.google.com/maps/documentation)
 - [Open Street Map (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
 - [Mapbox bundle](https://docs.mapbox.com/api/)
-- [Carto bundle](https://carto.com/developers/)
+- [Carto bundle](https://carto.com/developers/) -->
 
 — See also
 - [Data commons](https://docs.datacommons.org/api/)
-- [Europeana](https://pro.europeana.eu/page/apis)
 - [General purpose list of APIs](https://github.com/public-apis/public-apis)
 - [ISS(http)](http://open-notify.org/Open-Notify-API/) & [ISS(https)](https://wheretheiss.at/w/developer)
 - [News API](https://newsapi.org)

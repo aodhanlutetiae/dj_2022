@@ -11,5 +11,6 @@
 - [Mining (Global Witness)](https://www.globalwitness.org/en/campaigns/oil-gas-and-mining/myanmarjade/) using OpenCorporates API
 
 **RESOURCES**
+- [CIJ Open Corporates tuto](https://www.youtube.com/watch?v=Ur4pTdrJOTk)
 - See Harlow, and Smith, on the [reading list](https://dj-reading.readthedocs.io/en/latest/#scraping-apis)
 - See api_list_2022 in this repo
