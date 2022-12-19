@@ -7,7 +7,7 @@
 
 **STORIES**
 - [Festival music acts (BBC)](https://github.com/BBC-Data-Unit/music-festivals) using Spotify API
-- [Rail prices (BBC)](https://github.com/BBC-Data-Unit/rail-season-tickets) using Google maps API
+- [Rail prices (BBC)](https://github.com/BBC-Data-Unit/rail-season-tickets) using Google [Distance-Matrix API](https://developers.google.com/maps/documentation/distance-matrix/overview)
 - [Mining (Global Witness)](https://www.globalwitness.org/en/campaigns/oil-gas-and-mining/myanmarjade/) using OpenCorporates API
 
 **RESOURCES**

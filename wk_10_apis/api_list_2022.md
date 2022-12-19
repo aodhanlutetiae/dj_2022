@@ -1,10 +1,9 @@
 **APIs**
 
-- [UK gov list](https://www.api.gov.uk/#uk-public-sector-apis)
-
 — APIs without keys
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [Chargepoint Registry UK](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
+- [Climate emergency (UK councils)](https://data.climateemergency.uk/api/)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [Common crawl (web scrapers)](http://index.commoncrawl.org/)
 - [Companies House](https://developer.company-information.service.gov.uk/get-started/)
@@ -16,7 +15,6 @@
 - [Food hygiene UK (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 - [Formula One results since 1950](https://ergast.com/mrd/db/#csv)
 - [Hansard](https://api.parliament.uk/historic-hansard/api)
-- [Hansard via theyworkforyou](https://www.theyworkforyou.com/api/getHansard)
 - [Ministry of Housing, communities & local govt](https://opendatacommunities.org/help?tab=api)
 - [ONS (beta)](https://developer.ons.gov.uk/)
 - [Parliament UK APIs](https://developer.parliament.uk/)
@@ -39,6 +37,7 @@
 - [FEC (US)](https://api.open.fec.gov/developers/#/candidate/get_candidates_)
 - [Fullfact (needs permission)](https://api.fullfact.org/content/documentation#/)
 - [Guardian](https://open-platform.theguardian.com/access/)
+- [Hansard via theyworkforyou](https://www.theyworkforyou.com/api/getHansard)
 - [Land registry](https://use-land-property-data.service.gov.uk/api-information)
 - [Met office UK](https://www.metoffice.gov.uk/services/data/datapoint)
 - [NY Times](https://developer.nytimes.com/apis)
@@ -54,16 +53,13 @@
 - [Carto bundle](https://carto.com/developers/) -->
 
 — See also
-- [Data commons](https://docs.datacommons.org/api/)
 - [General purpose list of APIs](https://github.com/public-apis/public-apis)
 - [ISS(http)](http://open-notify.org/Open-Notify-API/) & [ISS(https)](https://wheretheiss.at/w/developer)
 - [News API](https://newsapi.org)
 - [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/)
 - [Open weather](https://www.weatherapi.com)
 - [Radio stations](https://api.radio-browser.info/)
-- [Shakespeare API (Folger)](https://www.folgerdigitaltexts.org/api)
-<!-- - [Spy on web](https://api.spyonweb.com/) -->
 - [Star Wars](https://swapi.dev/)
 - [Strava](https://developers.strava.com/)
+- [UK gov list](https://www.api.gov.uk/#uk-public-sector-apis)
 - [UK government APIs (some public, some private)](https://www.api.gov.uk/index/#index)
-- [UK government APIs (another list)](https://medium.com/@mcraddock/gov-uk-apis-92a0bcb8a23d)
