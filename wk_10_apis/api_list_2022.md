@@ -9,6 +9,7 @@
 - [Companies House](https://developer.company-information.service.gov.uk/get-started/)
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
 - [DEFRA APIs](https://environment.data.gov.uk/apiportal)
+- [Document Cloud](https://api.www.documentcloud.org/api/)
 - [Election candidates data UK](https://candidates.democracyclub.org.uk/api/docs/next/)
 - [Electoral commission](https://api.electoralcommission.org.uk/docs/endpoints/)
 - [Energy performance certificates](https://epc.opendatacommunities.org/docs/api)
