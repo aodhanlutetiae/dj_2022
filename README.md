@@ -10,18 +10,18 @@ Data journalism at its broadest sees any information in a digitised form as a po
 
 Course outline
 
-    Week 1 — Spreadsheets and stories
-    Week 2 —
-    Week 3 —
-    Week 4 —
-    Week 5 —
-    Week 6 —
-    Week 7 —
-    Week 8 —
-    Week 9 —
-    Week 10 —
-    Week 11 —
-    Week 12 —
+    Week 1 — Using spreadsheets and finding stories
+    Week 2 — Using spreadsheets and finding stories
+    Week 3 — Finding data
+    Week 4 — Using numbers
+    Week 5 — Visualising data
+    Week 6 — Mapping data
+    Week 7 — Production
+    Week 8 — Pandas for data analysis
+    Week 9 — Scraping data
+    Week 10 — APIs
+    Week 11 — Legal & ethical
+    Week 12 — Production final
 
 **Course resources**
 

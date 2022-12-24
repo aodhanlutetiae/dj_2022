@@ -1,5 +1,7 @@
 **CONTENT**
 
+See coventry_council_foi.csv file in Week 3 for complete scrape of the council's FOI requests disclosure log
+
 **RESOURCES — SOFTWARE**
 
 - [Freecodecamp course on beautiful soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
